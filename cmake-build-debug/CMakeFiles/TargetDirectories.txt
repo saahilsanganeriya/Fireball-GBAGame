@@ -1,0 +1,3 @@
+D:/Spring 2022/CS 2110/2110HW8/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Spring 2022/CS 2110/2110HW8/cmake-build-debug/CMakeFiles/2110HW8.dir
+D:/Spring 2022/CS 2110/2110HW8/cmake-build-debug/CMakeFiles/rebuild_cache.dir
